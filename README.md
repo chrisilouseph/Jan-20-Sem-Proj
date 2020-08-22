@@ -1,4 +1,4 @@
-# Jan '20 Sem Proj
+# Jan '20 Semester Project
 
 This repository contains all my saved work in Haskell, Coq and Lean from December '19 to June '20 during my winter and semester projects with Dr Vivek Mallick at IISER Pune.
 
