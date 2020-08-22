@@ -1,12 +1,21 @@
 # Jan '20 Sem Proj
 
-These four folders contain all my saved work in Haskell, Coq and Lean from Dec '19 to Jun '20.
+This repository contains all my saved work in Haskell, Coq and Lean from December '19 to June '20 during my winter and semester projects with Dr Vivek Mallick at IISER Pune.
 
-1) Coq: This is the smallest folder for reasons explained in the project report. Most of the folder is not original code but simply me experimenting with Mike Nahas's Tutorial ([2] in the project report).
+## Coq
 
-2) Lean:
-    a) Codewars: Codewars is a website where people can post as well as solve difficult programming problems and improve their skills. Each file in the folder contains the name of the contributer along with a link to the original question/collection.
-    b) TPiL Exercises: These are solutions to some parts of the exercises of "Theorem Proving by Lean" ([3] in the project report)
-    c) Group Theory: It is a collection of miscellaneous group theory problems.
+This small folder is mostly my experiments with [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial) and not original code.
 
-3) Peano: This contains two Haskell versions of Peano's axioms (one for natural numbers and one is an extention to integers) and some basic functions as well as an extensive compilation of arithmetic lemmas based on the Peano's axioms in Lean.
+## Lean
+
+- **Codewars** : Solutions to some Lean problems on [Codewars](https://www.codewars.com)
+- **TPiL Exercises** : Solutions to some of the exercises of [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean)
+- **Group Theory.lean** : A collection of miscellaneous group theory problems
+
+## Peano
+
+This folder contains an implementation of natural numbers and integers along with some basic functions in Haskell as well as an extensive compilation of arithmetic theorems of natural numbers starting from Peano's axioms in Lean.
+
+## Project Euler Exercises
+
+These contain Haskell implementations of the primary functions involved in the first few solutions of [Project Euler](https://projecteuler.net/archives).
