@@ -4,7 +4,7 @@ This repository contains all my saved work in Haskell, Coq and Lean from Decembe
 
 ## Coq
 
-This small folder is mostly my experiments with [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial) and not original code.
+This small folder is mostly me experimenting with [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial) and not original code.
 
 ## Lean
 
