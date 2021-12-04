@@ -19,3 +19,7 @@ This folder contains an implementation of natural numbers and integers along wit
 ## Project Euler Exercises
 
 These contain Haskell implementations of the primary functions involved in the first few solutions of [Project Euler](https://projecteuler.net/archives).
+
+## Project Report
+
+IISER Pune requires a project report to be submitted for each semester project.
